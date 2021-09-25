@@ -30,7 +30,9 @@
 	},
 
 
-
+多个store文件的注入 请参考
+ https://www.it1352.com/1628205.html
+ https://blog.csdn.net/qq_40816649/article/details/100656796?utm_term=mobx%E5%A4%9A%E4%B8%AAstore&utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-1-100656796&spm=3001.4430
 
 
 
